@@ -9,5 +9,8 @@ Este repositorio contiene una serie de ejemplos básicos de Python diseñados pa
 *   **05_funciones**: Definición y uso de funciones para crear bloques de código reutilizables.
 *   **06_archivos**: Lectura y escritura de información en archivos de texto (`.txt`).
 *   **07_modulos**: Cómo importar y utilizar código de otros archivos Python (módulos), tanto propios como incorporados en Python (como `math`).
+*   **08_errores**: Manejo de errores y excepciones usando `try`, `except`, `else` y `finally`.
+*   **09_oop_conceptos**: Profundización en la Programación Orientada a Objetos (clases, atributos, métodos, `__init__`).
+*   **10_bibliotecas_estandar**: Uso de módulos útiles incluidos en Python, como `random` (aleatoriedad) y `datetime` (fechas y horas).
 
 Cada carpeta contiene un archivo `main.py` con explicaciones y código de ejemplo ejecutable.
